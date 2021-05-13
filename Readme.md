@@ -11,13 +11,13 @@ It is a Full Stack MERN APP.
 
 ## Demo
 
-![alt text](https://github.com/ChakravarthiChowdary/TODO_MERN_APP/blob/master/src/app.PNG)
+![alt text](https://github.com/ChakravarthiChowdary/TODO_MERN_APP/blob/master/FRONTEND/src/images/app.PNG)
 
-![alt text](https://github.com/ChakravarthiChowdary/TODO_MERN_APP/blob/master/src/app2.PNG)
+![alt text](https://github.com/ChakravarthiChowdary/TODO_MERN_APP/blob/master/FRONTEND/src/images/app2.PNG)
 
-![alt text](https://github.com/ChakravarthiChowdary/TODO_MERN_APP/blob/master/src/app3.PNG)
+![alt text](https://github.com/ChakravarthiChowdary/TODO_MERN_APP/blob/master/FRONTEND/src/images/app3.PNG)
 
-![alt text](https://github.com/ChakravarthiChowdary/TODO_MERN_APP/blob/master/src/app4.PNG)
+![alt text](https://github.com/ChakravarthiChowdary/TODO_MERN_APP/blob/master/FRONTEND/src/images/app4.PNG)
 
 ## Run it locally
 
